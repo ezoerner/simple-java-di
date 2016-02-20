@@ -6,9 +6,7 @@ Inspired by MacWire for Scala.
 
 Links:
 
-* [Guide to Dependency Injection in Scala (Akka section)](http://di-in-scala.github.io/#akka)
-* [The MacWire project on GitHub](https://www.github.com/adamw/macwire)
-
+* [DI in Scala: guide, Dependency Injection in Scala using MacWire](http://di-in-scala.github.io/)
 
 
 ##Run
